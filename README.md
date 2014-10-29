@@ -45,9 +45,9 @@ As you might imagine, that's going to require a lot of particles in the model. T
 
 ##### a. Uncertainty Principle
 
-Imagine we've built a particle simulation. And imagine the particles in the model arranged into physical systems including a billiard ball, an MMNC, as well as some free electrons. The MMNC is directed to make measurements, such as the size of the billiard ball. So it does. Maybe it sticks a ruler next to it, and the it reads the markings on the ruler. The measurement is recorded on the MMNC's nanodrive. 
+Imagine we've built a particle simulation. And imagine the particles in the model arranged into physical systems including a billiard ball, an MMNC, a ruler, as well as some free electrons. The MMNC is directed to make measurements, such as the size of the billiard ball. So it does. By putting the ruler next to it, and reading the markings on the ruler. The measurement is recorded on the MMNC's nanodrive. 
 
-Next, ask the MMNC to measure the position and the momentum of a free electron. The MMNC's first measurement will require an interaction with the electron that imparts some force and changes it's properties. 
+Next, ask the MMNC to measure the position and the momentum of a free electron. The MMNC's first measurement will require an interaction with the electron that imparts some force and changes its properties. 
 
 Would the measurements made by the modeled MMNC ever violate the uncertainty principle?  One way to find out it is to build the model and see what the MMNC knows, thus determining the model's "relative state". 
 

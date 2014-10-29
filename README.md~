@@ -43,13 +43,25 @@ As you might imagine, that's going to require a lot of particles in the model. T
 
 #### III. What's the point?
 
+##### a. Uncertainty Principle
+
 Imagine we've built a particle simulation. And imagine the particles in the model arranged into physical systems including a billiard ball, an MMNC, as well as some free electrons. The MMNC is directed to make measurements, such as the size of the billiard ball. So it does. Maybe it sticks a ruler next to it, and the it reads the markings on the ruler. The measurement is recorded on the MMNC's nanodrive. 
 
 Next, ask the MMNC to measure the position and the momentum of a free electron. The MMNC's first measurement will require an interaction with the electron that imparts some force and changes it's properties. 
 
-Would the measurements made by the modeled MMNC ever violate the uncertainty principle? 
+Would the measurements made by the modeled MMNC ever violate the uncertainty principle?  One way to find out it is to build the model and see what the MMNC knows, thus determining the model's "relative state". 
 
-One way to find out it is to build the model and see what the MMNC knows. Find out the model's "relative state". 
+##### b. Many worlds
+
+Everett insisted that the absolute state of the model, the model as we see it from the outside, was based on wave mechanics, namely it followed the Schrodinger equation. He also says that in the wave fuction there would be multiple observer-states for the different possible outcomes in the wave function. This is the inspiration and basis of the Many Worlds Intepretation.
+
+Building an actual model of measurement being made an MMNC might be able to tell us to what extent multiple versions of macroscopic phenomena are quantitatively predicted by quantum mechanics. 
+
+##### c. Empirically Equivalent Models not based on the same Wave Mechanics
+
+While Everett's model was decidedly based on a specific wave mechanics, he stated that the model was "empirically faithful" to your and my experience in the real world, by taking only the relative states in the observer's memory as the model's predictions.
+
+If the model becomes empircally valid due to the contents of the observer's memory, could we build model's based on alternative mechanics that produce observers with memories that are empircally faithful as well? To what extent are many worlds predicted in those models?
 
 #### IV. The Beef
 
