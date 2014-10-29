@@ -2,7 +2,7 @@
 
 #### overview: 
 
-On page 9 of 1956's the _The Relative State Formulation of Quantum Mechanics_[1],  Hugh Everett presents the requirements to be satisfied to say an observation has taken place in a mathematical model. After receiving his PhD, Everett went on to do more work with computers than theoretical physics. Though it would not have been remotely possible in Everett's life time, his description of an observer in a mathematical model resembles a set of software requirements that could be implemented. This project explores ways to write an algorithm that satisfies those requirements and how such a model helps us understand measurement in physics, as well as what such a model quantitatively predicts.
+On page 9 of 1956's the _The Relative State Formulation of Quantum Mechanics_[1],  Hugh Everett presents the requirements to be satisfied to say an observation has taken place in a mathematical model. After receiving his PhD, Everett went on to do more work with computers than theoretical physics. Though it would not have been remotely possible to implement in Everett's life time, his description of an observer in a mathematical model resembles a set of software requirements. This project explores ways to write an algorithm that satisfies those requirements and how such a model helps us understand measurement in physics, as well as what such a model quantitatively predicts.
 
 #### I. Background
 
@@ -53,15 +53,15 @@ Would the measurements made by the modeled MMNC ever violate the uncertainty pri
 
 ##### b. Many worlds
 
-Everett insisted that the absolute state of the model, the model as we see it from the outside, was based on wave mechanics, namely it followed the Schrodinger equation. He also says that in the wave fuction there would be multiple observer-states for the different possible outcomes in the wave function. This is the inspiration and basis of the Many Worlds Intepretation.
+Everett insisted that the absolute state of the model, the model as we see it from the outside, was based on wave mechanics, namely it followed the Schrodinger equation. He also says that in the wave fuction there would be multiple observer-states for the different possible outcomes in the wave function. This is the inspiration and basis of the Many Worlds Interpretation.
 
 Building an actual model of measurement being made an MMNC might be able to tell us to what extent multiple versions of macroscopic phenomena are quantitatively predicted by quantum mechanics. 
 
 ##### c. Empirically Equivalent Models not based on the same Wave Mechanics
 
-While Everett's model was decidedly based on a specific wave mechanics, he stated that the model was "empirically faithful" to your and my experience in the real world, by taking only the relative states in the observer's memory as the model's predictions.
+While Everett's model was decidedly based on a specific wave mechanics, he stated that the model was "empirically faithful", that is equal to your and my observations in the real world, when the relative states in the observer's memory are taken as the model's predictions.
 
-If the model becomes empircally valid due to the contents of the observer's memory, could we build model's based on alternative mechanics that produce observers with memories that are empircally faithful as well? To what extent are many worlds predicted in those models?
+If the model becomes empircally valid due to the contents of the observer's memory, could models based on alternative mechanics contain observers whose memories are also empirically faithful? To what extent are many worlds predicted in those models?
 
 #### IV. The Beef
 
