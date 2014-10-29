@@ -6,7 +6,7 @@ On page 9 of 1956's the _The Relative State Formulation of Quantum Mechanics_[1]
 
 #### I. Background
 
-It is well known that when an object is measured in quantum mechanics, it changes. Hugh Everett goes further. He says that when an object is measured in quantum mechanics, that the observer also changes, since the observer is a physical system having a physical interaction with another physical system:
+It is well known that when an object is measured in quantum mechanics, it changes. Hugh Everett goes further. He says when an object is measured in quantum mechanics, that the observer also changes, since the observer is a physical system having a physical interaction with another physical system:
 
 >For this purpose it is necessary to formulate abstract models for observers that can be treated within the theory itself as physical systems, to consider isolated systems containing such model observers in interaction with other subsystems, **to deduce the changes that occur in an observer as a consequence of interaction with the surrounding subsystems**.
 [1, p. 4]
