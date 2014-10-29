@@ -11,7 +11,7 @@ It is well known that when an object is measured in quantum mechanics, it change
 >For this purpose it is necessary to formulate abstract models for observers that can be treated within the theory itself as physical systems, to consider isolated systems containing such model observers in interaction with other subsystems, **to deduce the changes that occur in an observer as a consequence of interaction with the surrounding subsystems**.
 [1, p. 4]
 
-What does this mean? It means that when you and I make a measurement, we gain a memory containing the outcome of that measurement. Is Everett actually suggesting that we make a model that contains a machine that makes measurements and record them in a memory? And that we look at the content's of an observer's memory to figure out how the model looks from the inside?
+What does this mean? It means that when you and I make a measurement, we gain a memory containing the outcome of that measurement. Is Everett actually suggesting that we make a model that contains a machine that makes measurements and records them in a memory? And that we look at the contents of an observer's memory to figure out how the model looks from the inside?
 
 Yes, that's what he says alright:
 
@@ -53,7 +53,7 @@ IV. The Beef
 
 The plan is to use this open source project to keep track of models that show promise in satisfying Everett's requirements. The first step seems to me to be make a model of particle physics that holds electrons and neutron and protons into different atoms, hydrogen and carbon, ect.
 
-All are welcome to join in. 
+All are welcome to join in. For the most part I've been playing with Javascript and Python models as of late. But I think all languages and approaches are welcomed toward satisfying Everett's requirement.
 
 
 [1] http://philosophyfaculty.ucsd.edu/faculty/wuthrich/PhilPhys/EverettHugh1957PhDThesis_BarrettComments.pdf
